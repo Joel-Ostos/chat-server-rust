@@ -1,5 +1,6 @@
 ## Servidor y Cliente de Chat Escrito en Rust
 ![gif](gif/gif.gif)
+---
 Este proyecto consiste en un simple servidor y cliente de chat, escrito en el lenguaje de programación Rust.
 
 El objetivo de este código es meramente de entretenimiento.
